@@ -1,0 +1,35 @@
+# Dependencies and generated builds
+**/node_modules/
+**/.next/
+**/output/
+**/tmp/
+**/*.tsbuildinfo
+
+# Local configuration and credentials
+**/.env
+**/.env.*
+!**/.env.example
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+
+# Local records, diagnostics, and browser automation
+**/data/
+**/logs/
+**/*.log
+**/*.db
+**/*.db-*
+**/*.sqlite
+**/*.sqlite-*
+**/*.sqlite3
+**/.playwright-cli/
+
+# Working copies, reference lectures, and generated agent configuration
+**/Backups/
+**/Chapter*.pdf
+/Project Rubric/
+**/AGENTS.md
+**/~$*
+**/.DS_Store
+**/Thumbs.db
