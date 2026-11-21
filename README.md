@@ -28,7 +28,7 @@ Job seekers can struggle to understand technical requirements and explain how th
 
 ## Technologies
 
-Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, SQLite, Zod, and the Google GenAI SDK.
+HTML/CSS, Next.js, TypeScript, shadcn/ui, SQLite, and the Google GenAI SDK.
 
 ## Prerequisites
 
@@ -81,9 +81,3 @@ npm run build
 ```
 
 Stop the development server before building. To run the production build, use `npm start`.
-
-## Methodology
-
-The project follows system prototyping under RAD, connecting requirements, UML design, implementation, and focused testing. The detailed analysis and design are covered in the course report.
-
-For the presentation steps and troubleshooting, see the [demo guide](implementation/docs/demo-guide.md).
