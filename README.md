@@ -28,7 +28,7 @@ Job seekers can struggle to understand technical requirements and explain how th
 
 ## Technologies
 
-HTML/CSS, Next.js, TypeScript, shadcn/ui, SQLite, and the Google GenAI SDK.
+HTML/CSS, Next.js, SQLite,TypeScript and the Gemini Model.
 
 ## Prerequisites
 
